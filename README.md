@@ -18,22 +18,7 @@ sh dependencies.sh
 Please refer to our another work of [Self-DPDN](https://github.com/JiehongLin/Self-DPDN).
 
 
-## Network Training
 
-
-Train FE-Net for rotation estimation:
-
-```
-python train.py --gpus 0 --dataset ${DATASET} --mode r
-```
-
-Train the network of [pointnet++](https://github.com/charlesq34/pointnet2) for translation and size estimation:
-
-```
-python train.py --gpus 0 --dataset ${DATASET} --mode ts 
-```
-
-The string "DATASET" could be set as `DATASET=REAL275` or `DATASET=CAMERA25`.
 
 ## Evaluation
 
