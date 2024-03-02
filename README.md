@@ -15,7 +15,7 @@ sh dependencies.sh
 
 ## Data Processing
 
-Please refer to our another work of [Self-DPDN](https://github.com/JiehongLin/Self-DPDN).
+Please refer to  work of [Self-DPDN](https://github.com/JiehongLin/Self-DPDN).
 
 
 
