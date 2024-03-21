@@ -35,12 +35,12 @@ The string "DATASET" could be set as `DATASET=REAL275` or `DATASET=CAMERA25`.
 ## Results
 Qualitative results on REAL275 test set:
 <p align="center">
-	<img src ="Result/result.png" width="600" />
+	<img src ="Result/result_REAL275.png" width="600" />
 </p>
 
 Qualitative Comparison between FE-Net and VI-Net on the REAL275 Datasets.
 <p align="center">
-	<img src ="Result/isualization.png" width="600" />
+	<img src ="Result/visualization.png" width="600" />
 </p>
 
 ## Acknowledgements
