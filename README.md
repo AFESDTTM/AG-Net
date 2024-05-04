@@ -1,4 +1,4 @@
-# FE-Net
+# AG-Net
 Code for "Category-level 6D Pose Estimation Network Based on Attention Mechanism and Global Enhancement"
 
 ## Requirements
