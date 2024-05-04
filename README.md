@@ -1,5 +1,5 @@
 # FE-Net
-Code for "FE-Net:Efficient Feature Extraction Category Level 6D Pose Estimation Network"
+Code for "Category-level 6D Pose Estimation Network Based on Attention Mechanism and Global Enhancement"
 
 ## Requirements
 The code has been tested with
