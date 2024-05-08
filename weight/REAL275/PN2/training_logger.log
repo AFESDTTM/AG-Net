@@ -1,0 +1,50 @@
+2023-12-06 13:35:41,196 - ************************ Start Logging ************************
+2023-12-06 13:35:44,847 - #Total parameters : 12500924
+2023-12-06 13:51:00,148 - ************************ Start Logging ************************
+2023-12-06 13:51:03,717 - #Total parameters : 12697536
+2023-12-06 13:55:22,364 - ************************ Start Logging ************************
+2023-12-06 13:55:25,952 - #Total parameters : 12697536
+2023-12-06 13:57:52,053 - ************************ Start Logging ************************
+2023-12-06 13:57:55,726 - #Total parameters : 14532544
+2023-12-06 13:59:31,970 - ************************ Start Logging ************************
+2023-12-06 13:59:35,480 - #Total parameters : 45727680
+2023-12-06 16:07:54,641 - Epoch 1 - train_time(min): 128.30687	train_loss: 0.04210	
+2023-12-06 18:13:00,747 - Epoch 2 - train_time(min): 125.09338	train_loss: 0.02216	
+2023-12-06 20:17:41,329 - Epoch 3 - train_time(min): 124.66659	train_loss: 0.01798	
+2023-12-06 22:22:51,772 - Epoch 4 - train_time(min): 125.16376	train_loss: 0.01563	
+2023-12-07 00:26:59,991 - Epoch 5 - train_time(min): 124.12621	train_loss: 0.01421	
+2023-12-07 02:30:41,228 - Epoch 6 - train_time(min): 123.67766	train_loss: 0.01332	
+2023-12-07 04:34:45,372 - Epoch 7 - train_time(min): 124.05886	train_loss: 0.01262	
+2023-12-07 06:38:41,231 - Epoch 8 - train_time(min): 123.92079	train_loss: 0.01200	
+2023-12-07 08:42:31,757 - Epoch 9 - train_time(min): 123.83219	train_loss: 0.01153	
+2023-12-07 10:47:02,301 - Epoch 10 - train_time(min): 124.50013	train_loss: 0.01111	
+2023-12-07 12:51:31,717 - Epoch 11 - train_time(min): 124.48066	train_loss: 0.01078	
+2023-12-07 14:54:02,050 - Epoch 12 - train_time(min): 122.49570	train_loss: 0.01046	
+2023-12-07 16:58:56,378 - Epoch 13 - train_time(min): 124.89705	train_loss: 0.01021	
+2023-12-07 19:02:52,359 - Epoch 14 - train_time(min): 123.92372	train_loss: 0.00996	
+2023-12-07 21:06:27,782 - Epoch 15 - train_time(min): 123.57903	train_loss: 0.00976	
+2023-12-07 23:10:23,934 - Epoch 16 - train_time(min): 123.92702	train_loss: 0.00956	
+2023-12-08 01:14:22,870 - Epoch 17 - train_time(min): 123.97256	train_loss: 0.00935	
+2023-12-08 03:17:06,355 - Epoch 18 - train_time(min): 122.71501	train_loss: 0.00920	
+2023-12-08 05:20:28,125 - Epoch 19 - train_time(min): 123.35320	train_loss: 0.00905	
+2023-12-08 07:24:20,295 - Epoch 20 - train_time(min): 123.85941	train_loss: 0.00887	
+2023-12-08 09:28:37,976 - Epoch 21 - train_time(min): 124.28530	train_loss: 0.00872	
+2023-12-08 11:32:16,343 - Epoch 22 - train_time(min): 123.62161	train_loss: 0.00860	
+2023-12-08 13:41:57,830 - Epoch 23 - train_time(min): 129.68176	train_loss: 0.00847	
+2023-12-08 15:49:01,011 - Epoch 24 - train_time(min): 127.04264	train_loss: 0.00835	
+2023-12-08 17:52:05,437 - Epoch 25 - train_time(min): 123.06271	train_loss: 0.00821	
+2023-12-08 19:55:01,342 - Epoch 26 - train_time(min): 122.92321	train_loss: 0.00808	
+2023-12-08 21:58:02,633 - Epoch 27 - train_time(min): 123.01278	train_loss: 0.00801	
+2023-12-09 00:01:43,218 - Epoch 28 - train_time(min): 123.66629	train_loss: 0.00788	
+2023-12-09 02:05:29,402 - Epoch 29 - train_time(min): 123.75968	train_loss: 0.00782	
+2023-12-09 04:09:15,462 - Epoch 30 - train_time(min): 123.75862	train_loss: 0.00772	
+2023-12-09 06:12:11,958 - Epoch 31 - train_time(min): 122.93194	train_loss: 0.00764	
+2023-12-09 08:15:16,168 - Epoch 32 - train_time(min): 123.05964	train_loss: 0.00759	
+2023-12-09 10:18:31,585 - Epoch 33 - train_time(min): 123.24730	train_loss: 0.00752	
+2023-12-09 12:26:45,633 - Epoch 34 - train_time(min): 128.22454	train_loss: 0.00748	
+2023-12-09 14:35:14,787 - Epoch 35 - train_time(min): 128.47621	train_loss: 0.00743	
+2023-12-09 16:42:03,731 - Epoch 36 - train_time(min): 126.80589	train_loss: 0.00740	
+2023-12-09 18:46:01,017 - Epoch 37 - train_time(min): 123.94465	train_loss: 0.00737	
+2023-12-09 20:49:40,904 - Epoch 38 - train_time(min): 123.65533	train_loss: 0.00734	
+2023-12-09 22:53:16,157 - Epoch 39 - train_time(min): 123.57714	train_loss: 0.00732	
+2023-12-10 00:56:00,076 - Epoch 40 - train_time(min): 122.71448	train_loss: 0.00733	
